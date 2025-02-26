@@ -5,11 +5,11 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-hi guys. just search any movie </b>"""
+hi guys. just search any book </b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-hi guys. just search any movie</b>"""
+hi guys. just search any book </b>"""
     
     HELP_TXT = """<b>ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴀʟʟ ᴍʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs.</b>"""
