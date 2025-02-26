@@ -5,11 +5,11 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-hi guys. meeku kavalsina book ni search cheyandi for example meeru ncert ani seach cheste ncert ki sambanchina anni books vastai. meeku kavalsina book dorakakapote support group lo msg cheyandi </b>"""
+hi guys. meeku kavalsina book ni search cheyandi for example meeru ncert ani seach cheste ncert ki sambanchina anni books vastai. meeku kavalsina book dorakakapote kinda unna update channel lo msg cheyandi </b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-hi guys. meeku kavalsina book ni search cheyandi for example meeru ncert ani seach cheste ncert ki sambanchina anni books vastai. meeku kavalsina book dorakakapote support group lo msg cheyandi </b>"""
+hi guys. meeku kavalsina book ni search cheyandi for example meeru ncert ani seach cheste ncert ki sambanchina anni books vastai. meeku kavalsina book dorakakapote kinda unna update channel lo msg cheyandi </b>"""
     
     HELP_TXT = """<b>ʜᴇʟʟᴏ {}
 ʜᴇʀᴇ ɪs ᴀʟʟ ᴍʏ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇs.</b>"""
